@@ -1,6 +1,10 @@
-# AI Workflow Test
+# AI Workflow Test Repository
 
-Test repository for the AI coding agent.
+This is a test repository for AI workflow automation.
+
+## Purpose
+
+This repository serves as a testing ground for experimenting with AI-assisted development workflows and automation processes.
 
 ## Setup
 
@@ -10,7 +14,6 @@ npm run build
 npm test
 ```
 
-## TODO
+## Status
 
-- [ ] Implement calculator functions in `src/index.ts`
-- [ ] Add unit tests
+Currently under development and testing.
