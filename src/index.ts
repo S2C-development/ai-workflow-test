@@ -19,3 +19,7 @@ export function divide(a: number, b: number): number {
   // TODO: implement
   throw new Error('Not implemented');
 }
+
+export function greetOllama(): string {
+  return "Hello from Ollama";
+}
