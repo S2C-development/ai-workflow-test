@@ -1,3 +1,5 @@
+// Modified by Aider with local LLM
+
 // TODO: Implement calculator functions
 
 export function add(a: number, b: number): number {
